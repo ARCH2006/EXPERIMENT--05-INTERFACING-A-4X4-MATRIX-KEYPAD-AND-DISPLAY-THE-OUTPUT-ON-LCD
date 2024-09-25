@@ -140,6 +140,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 REG.NO: 212223040019
 DATE: 25.9.2024
 */
+```
 #include "main.h"
 #include <stdbool.h>
 #include "lcd.h"
@@ -373,6 +374,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 }
 #endif
+```
 ## Output screen shots of proteus  :
  ![Screenshot 2024-09-25 102944](https://github.com/user-attachments/assets/0a087386-837d-4ce5-a412-cfe2c1a15552)
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
